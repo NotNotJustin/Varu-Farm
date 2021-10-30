@@ -10,6 +10,11 @@ A farm for VaruBot on Discord. Be sure to do this on a server that is not open f
 4. After you have downloaded the \*.exe file, double click it in your Downloads directory. You should see an icon appear on the right-hand side of your taskbar. If you do not see it, click the arrow that shows Hidden Icons. If you do see it before or after showing Hidden Icons, you successfully started the program, but you aren't done yet.
 5. Click in to Discord and make sure you are in the server and channel where you just set up VaruBot. Click in the message bar at the bottom of the window. Then on your keyboard, press `Ctrl` `Alt` `Q` to run the script. The bot will wait 1 second then type out the message near-instantly and send it to that channel.
 
+**Controls List:**
+`Ctrl` `Alt` `Q`: Start Script
+`F9`: Pause Script
+`F10`: Reset Script
+
 **CONGRATS! YOU'RE NOW FARMING VARUBOT!**
 
 ## Q: What are the risks in using this program?
@@ -17,3 +22,5 @@ As with all autofarm programs there's a possibility you may be banned as this sc
 
 ## Q: I am the developer of VaruBot and would like this farming script removed. How do I contact the developer of this script?
 You may message me on Twitter using an official VaruBot handle or show some proof that you are the developer of the bot. I will talk to you on there and we can make arrangements then. https://twitter.com/_NotNotJustin
+
+If Discord is easier, you can message me using the same Discord account you use for the Varubot's Lair Discord Server. My Discord handle is `NotNotJustin#0330` .
