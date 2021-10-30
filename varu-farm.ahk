@@ -10,17 +10,19 @@ return
 
 autofarm:
 {
-
+	RandSleep(2500,12500)
 	Loop, 9999999
 	{
 		Loop, 9999999
 		{
-			Sleep, 1000
+			RandSleep(x,y) {
+				Random, rand, %x%, %y%
+				Sleep %rand%
+			}
 			Send, v{!}c{Enter}
 			Sleep, 60 * 1000
 		}
 	}
-	
 }
 
 F9::Pause
