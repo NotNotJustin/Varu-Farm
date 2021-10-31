@@ -10,7 +10,7 @@ return
 
 autofarm:
 {
-	RandSleep(2500,12500)
+	RandSleep(4500,12500)
 	Loop, 9999999
 	{
 		Loop, 9999999
