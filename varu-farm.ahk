@@ -2,7 +2,7 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-SetKeyDelay, 250
+SetKeyDelay, 500
 
 Hotkey  !^q,	autofarm		; Pressing ctrl + alt + q will start autofarm.
 
@@ -19,7 +19,10 @@ autofarm:
 				Random, rand, %x%, %y%
 				Sleep %rand%
 			}
-			Send, v{!}c{Enter}
+			Send, v
+			Send, {!}
+			Send, c
+			Send, {Enter}
 			Sleep, 60 * 1000
 		}
 	}
