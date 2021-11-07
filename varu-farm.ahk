@@ -20,8 +20,11 @@ autofarm:
 				Sleep %rand%
 			}
 			Send, v
+			Sleep, 500
 			Send, {!}
+			Sleep, 500
 			Send, c
+			Sleep, 500
 			Send, {Enter}
 			Sleep, 60 * 1000
 		}
