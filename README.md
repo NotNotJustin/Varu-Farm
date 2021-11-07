@@ -8,7 +8,7 @@ A farm for VaruBot on Discord. Be sure to do this on a server that is not open f
 2. Set the prefix of VaruBot to `v!`. You can do this by running this command: `!varubot prefix v!`
 3. Next, make sure you have the latest version of Varu-Farm by going to the Releases section of the `master` branch.
 4. After you have downloaded the \*.exe file, double click it in your Downloads directory. You should see an icon appear on the right-hand side of your taskbar. If you do not see it, click the arrow that shows Hidden Icons. If you do see it before or after showing Hidden Icons, you successfully started the program, but you aren't done yet.
-5. Click in to Discord and make sure you are in the server and channel where you just set up VaruBot. Click in the message bar at the bottom of the window. Then on your keyboard, press `Ctrl` `Alt` `Q` to run the script. The bot will wait between 4.5 and 12.5 seconds after the 1 minute cooldown on the command has expired, then type out the message within a second and send it to that channel.
+5. Click in to Discord and make sure you are in the server and channel where you just set up VaruBot. Click in the message bar at the bottom of the window. Then on your keyboard, press `Ctrl` `Alt` `Q` to run the script. The bot will wait between 4.5 and 12.5 seconds after the 1 minute cooldown on the command has expired, then type out the message within two seconds and send it to that channel.
 
 **Controls List:**
 `Ctrl` `Alt` `Q`: Start Script
